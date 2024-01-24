@@ -21,7 +21,7 @@ Make sure you have Python installed on your system.
    git clone https://github.com/Saadben30/Todo-app.git
 2. Navigate to the project directory:
     ```bach
-    cd ToDolist-App 
+    cd Todo-app 
 
 3. Run the application:
     ```bash
