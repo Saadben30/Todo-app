@@ -18,7 +18,7 @@ Make sure you have Python installed on your system.
 
 1. Clone the repository:
     ```bash
-   git clone https://github.com/your-username/your-todolist-repo.git
+   git clone https://github.com/Saadben30/Todo-app.git
 2. Navigate to the project directory:
     ```bach
     cd ToDolist-App 
